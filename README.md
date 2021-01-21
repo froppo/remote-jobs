@@ -15,12 +15,13 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 - [Remotewx](#remotewx)
 - [Remotive.io](#remotive)
 - [Remote.co](#remoteco)
+- [Stack Overflow Jobs](#stack-overflow-jobs)
 
 ## Dynamite Jobs
 This site offers great remote job search filters. You can immediately narrow down for timezone and area of focus – like marketing, design, business development, technical support, software development and much more.
 
 ## FlexJobs
-The money is well spent: Access to [FlexJobs](https://flexjobs.com) starts at $14.95/month ranging to $49.95/year. They have remote and flexible jobs, part-time to full-time, entry-level to executive, in more than 50 categories.
+The team at [FlexJobs](https://flexjobs.com) scours the web daily for the best, new remote job postings. It costs around $7 per week. I recommend trying it for at least one week. They have remote and flexible jobs, part-time to full-time, entry-level to executive, in more than 50 categories.
 
 ## JobsPresso
 [Jobspresso](https://jobspresso.co) is an established remote work job board trusted by some of the world's top startups and remote companies, such as WordPress, Zapier, and Trello.
@@ -40,3 +41,7 @@ The money is well spent: Access to [FlexJobs](https://flexjobs.com) starts at $1
 
 ## Remote.co
 [Remote.co](https://remote.co) hand-curates their list of remote jobs. These listings include customer service positions, design opportunities, developer jobs, recruiter and HR roles, sales jobs, and other remote jobs.
+
+## Stack Overflow Jobs
+[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
+The "remote" option has been available since 2020. But it is difficult to find companies that work completely remotely.
