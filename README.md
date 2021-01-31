@@ -45,3 +45,7 @@ The team at [FlexJobs](https://flexjobs.com) scours the web daily for the best, 
 ## Stack Overflow Jobs
 [Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
 The "remote" option has been available since 2020. But it is difficult to find companies that work completely remotely.
+
+
+## Watchlist
+[RemoteLeaf](https://remoteleaf.com/) aggregates remote jobs in one organised place. It comes as a newsletter and costs from 4 USD per month. Seems quite interesting.
