@@ -15,7 +15,7 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 - [Remotewx](#remotewx)
 - [Remotive.io](#remotive)
 - [Remote.co](#remoteco)
-- [Stack Overflow Jobs](#stack-overflow-jobs)
+- [Hotfixo](#hotfixo)
 
 ## Dynamite Jobs
 This site offers great remote job search filters. You can immediately narrow down for timezone and area of focus – like marketing, design, business development, technical support, software development and much more.
@@ -35,17 +35,14 @@ The team at [FlexJobs](https://flexjobs.com) scours the web daily for the best, 
 ## Remotewx
 [Remotewx](https://remotewx.com) is another medium-sized (but fast-growing) remote job website featuring the usual software-related categories like programming, UI/UX, DevOps, engineering etc., but also positions like sales, writing, editing and much more. The site is modern and easy/simple to use and has a good overall quality of jobs posted.
 
-
 ## Remotive
 [Remotive.io](https://remotive.io): They offer remote jobs in marketing, design, programming and more and seem to have a few new jobs posted every day.
 
 ## Remote.co
 [Remote.co](https://remote.co) hand-curates their list of remote jobs. These listings include customer service positions, design opportunities, developer jobs, recruiter and HR roles, sales jobs, and other remote jobs.
 
-## Stack Overflow Jobs
-[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs) is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
-The "remote" option has been available since 2020. But it is difficult to find companies that work completely remotely.
-
+## Hotfixo
+[Hotfixo](https://hotfixo.com/remote-jobs) is a great to place to find a remote job plus find information about salaoes for different software development positions. 
 
 ## Watchlist
 [RemoteLeaf](https://remoteleaf.com/) aggregates remote jobs in one organised place. It comes as a newsletter and costs from 4 USD per month. Seems quite interesting.
